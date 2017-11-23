@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=Student
-comment0.text=\r\n\ Write\ a\ description\ of\ class\ Student\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment0.text=\r\n\ This\ is\ my\ class\ Student\ here.\r\n\ \r\n\ @author\ (Jazzdin\ Eulalia)\ \r\n\ @version\ (November,\ 23,\ 2017)\r\n
 comment1.params=number\ first\ last\ grade\ avg\ isIt
 comment1.target=Student(int,\ java.lang.String,\ java.lang.String,\ int,\ double,\ boolean)
 comment10.params=

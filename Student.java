@@ -1,10 +1,10 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 import java.awt.*;
 /**
- * Write a description of class Student here.
+ * This is my class Student here.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author (Jazzdin Eulalia) 
+ * @version (November, 23, 2017)
  */
 public class Student extends Actor
 {

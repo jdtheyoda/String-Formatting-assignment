@@ -3,8 +3,8 @@ import java.awt.*;
 /**
  * This is my class MyWorld here.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author (Jazzdin Eulalia) 
+ * @version (November, 23, 2017)
  */
 public class Classroom extends World
 {
